@@ -9855,5 +9855,10 @@ h6 {
     padding: 30px;
   }
 }
+.header h1 {
+  position: relative;
+  top: 18px;
+  left: 10px;
+}
 
 /*# sourceMappingURL=style.css.map */
